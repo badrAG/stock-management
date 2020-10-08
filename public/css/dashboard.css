@@ -1,0 +1,206 @@
+.text-center {
+    text-align: center !important;
+}
+
+.container-fluid {
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+.statis .box {
+    position: relative;
+    padding: 15px;
+    overflow: hidden;
+    border-radius: 3px;
+    margin-bottom: 25px;
+}
+.logofact{
+    display: none;
+}
+.tab-cont{
+    overflow: auto;
+    height: 355px;
+}
+.bg-primary {
+    background-color: #007bff !important;
+}
+.btn-secondary{
+    background-color: #8f8f90 !important;
+    border-color: #89898a !important;
+}
+.statis .box {
+    position: relative;
+    padding: 15px;
+    overflow: hidden;
+    border-radius: 3px;
+    margin-bottom: 25px;
+}
+.statis .box i {
+    position: absolute;
+    height: 70px;
+    width: 70px;
+    font-size: 22px;
+    padding: 15px;
+    top: -25px;
+    left: -25px;
+    background-color: rgba(255, 255, 255, 0.15);
+    line-height: 60px;
+    text-align: right;
+    border-radius: 50%;
+}
+.form-remove{
+    margin-left: 22px !important;
+    font-size: 22px !important;
+    color: #e20404 !important;
+    cursor: pointer !important;
+}
+.form-check {
+    margin-top: 5px !important;
+}
+.bdgtitle{
+    font-weight: 200 !important;
+}
+.nligne{
+    background-color: #6b6b6b !important;
+    margin-top: 15px !important;
+    color: white !important;
+}
+.btn.sm{
+    background-color: #6b6b6b ;
+    color: white ;
+    padding: 4px;
+    margin-top: 12px;
+}
+form .form-group{
+    margin-bottom: 10px !important;
+}
+.statis .box h3::after {
+    content: "";
+    height: 2px;
+    width: 70%;
+    margin: auto;
+        margin-top: auto;
+    background-color: rgba(255, 255, 255, 0.12);
+    display: block;
+    margin-top: 10px;
+}
+.lead {
+    font-size: 1.25rem;
+    font-weight: 300;
+}
+.success {
+    background-color: #5cb85c;
+}
+.warning {
+    background-color: #f0ad4e;
+}
+.danger {
+    background-color: #d9534f;
+}
+.statis {
+    color: #EEE;
+}
+.title{
+    margin-bottom: 20px;
+    margin-left: 12px;
+}
+.mois{
+    position: absolute;
+    bottom: 12px;
+    left: 92px;
+    opacity: .7;
+}
+
+.search {
+    border-top: none;
+    border-bottom-color: #8a8a8a;
+    border-right: none;
+    margin-left: 77px;
+    padding-left: 21px;
+    padding-bottom: 4px;
+    padding-top: 3px;
+    border-left: none;
+    background-color: #e8edf5;
+}
+.footaucan{
+    text-align: center;
+    font-size: 22px;}
+
+.ajoute{
+    padding-right: 12px !important;
+    padding-left: 0 !important;
+    padding-top: 0 !important;
+    padding-bottom: 0 !important;
+    border-radius: 15px;
+    background-color: #007bff;
+    width: 170px;
+    height: 34px;
+}
+
+.icSearsh{
+    position: absolute;
+    left:95px;
+    color: #8a8a8a;
+    top: 4px;
+}
+.combo{
+    display:initial !important;
+    width: 95%;
+}
+/*-----------------login---------------*/
+section .row .back{
+    background:linear-gradient(-45deg,rgba(33, 191, 231, 0.493),rgb(87, 154, 255),rgb(4, 108, 206)) ;
+    height: 100vh;
+    border-top-left-radius: 0;
+    border-top-right-radius: 455px;
+    border-bottom-right-radius: 455px;
+    position: relative;
+}
+.sect{
+    background:white;
+}
+.carditm{
+    border:none;
+}
+.carhed{
+    border:none;
+background:none;
+text-align: center;
+}
+.loginlogo{
+    position: absolute;
+    width: 45px;
+    top: 8px;
+    left: 24px;
+    cursor:pointer;
+}
+.logintitle{
+    position: absolute;
+    top: 25px;
+    font-size: 24px;
+    left: 72px;
+    cursor: pointer;
+}
+.loginimg{
+    border-style: none;
+    width: 75%;
+    top: 23%;
+    position: absolute;
+    right: -125px;
+}
+.jst{
+    height: 34px;
+    border-radius: 15px;
+    padding: 15px;
+    background: white;
+    border: solid 2px;
+}
+.log{
+    width: 259px;
+    font-size: 16px;
+    margin-left: 20px;
+    margin-top: 15px;
+    border-radius: 18px;
+}
